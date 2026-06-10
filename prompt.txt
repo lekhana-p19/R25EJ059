@@ -1,0 +1,29 @@
+Prompt 1:
+Give me a C programming mini project based on a 2D Graphics Editor.
+
+Response:
+The AI suggested creating a 2D Graphics Editor using a 2D character array with options to draw shapes and manage objects.
+
+Prompt 2:
+Add line, rectangle, triangle and circle drawing functions.
+
+Response:
+The AI explained how to create separate functions for drawing each shape and integrate them into the program.
+
+Prompt 3:
+Give complete C code for the project.
+
+Response:
+The AI generated a complete menu-driven C program for the 2D Graphics Editor.
+
+Prompt 4:
+Explain the code.
+
+Response:
+The AI explained the purpose of the 2D array, shape-drawing functions, menu options, and overall program flow.
+
+Prompt 5:
+How to upload this project to GitHub repository?
+
+Response:
+The AI provided steps for creating a GitHub repository, uploading the C file, committing changes, and sharing the repository link.
